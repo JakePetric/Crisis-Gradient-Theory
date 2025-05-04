@@ -1,0 +1,20 @@
+Crisis Gradient Theory (CGT) License
+Copyright © Jake Petric 2025
+
+This work, including the name "Crisis Gradient Theory (CGT)" and all associated written content, frameworks, and terminology, is the original intellectual property of Jake Petric.
+
+Permission is granted to share, download, and reference this work under the following conditions:
+
+1. **Attribution**: Proper credit must be given to the original author: Jake Petric, with a link to the original source or repository. Any derivative work, citation, or public mention must include this attribution.
+
+2. **Non-Commercial Use**: This work may not be sold, monetized, or used for commercial purposes without explicit written permission from the author.
+
+3. **No Derivatives**: You may not alter, transform, or build upon this work and present it as your own. Adaptations must receive prior written approval.
+
+4. **Integrity Clause**: The core ideas and terminology of Crisis Gradient Theory may not be rebranded, renamed, or repackaged under alternate names without the author's consent.
+
+By using, referencing, or sharing this content, you agree to these terms.
+
+For permissions beyond the scope of this license, please contact: jakepetric@outlook.com
+
+Licensed under a custom license based on Creative Commons BY-NC-ND 4.0 (Attribution-NonCommercial-NoDerivatives)
